@@ -1,0 +1,10 @@
+{
+  "category": "spatial",
+  "description": "{ObjectA} is {skill} {ObjectB}.",
+  "skill": {
+    "above": "{ObjectA} is above {ObjectB}, meaning {ObjectA} is positioned higher than {ObjectB} without touching it",
+    "below": "{ObjectA} is below {ObjectB}, meaning {ObjectA} is positioned lower than {ObjectB} without touching it",
+    "left of": "{ObjectA} is positioned on the left side of {ObjectB}",
+    "right of": "{ObjectA} is positioned on the right side of {ObjectB}"
+  }
+}

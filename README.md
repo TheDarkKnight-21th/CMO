@@ -5,10 +5,11 @@
 <img src="flow_grpo/assets/cmo_logo_tight.png" width="450" alt="CMO Logo"><br>
 
 <p>
-  Jungmyung Wi<sup>1</sup>, Hyunsoo Kim<sup>1</sup>, and Donghyun Kim<sup>1&dagger;</sup><br>
+  <a href="https://thedarkknight-21th.github.io/" target="_blank">Jungmyung Wi</a><sup>1</sup>, 
+  <a href="https://gustn9609.github.io/" target="_blank">Hyunsoo Kim</a><sup>1</sup>, and 
+  Donghyun Kim<sup>1&dagger;</sup><br>
   <sup>1</sup>Korea University
 </p>
-
 <a href="https://arxiv.org/abs/2603.18528"><img src="https://img.shields.io/badge/arXiv-2603.18528-b31b1b" alt="Paper PDF"></a>
 <a href="https://thedarkknight-21th.github.io/CMO/"><img src="https://img.shields.io/badge/Project-Website-c46a2d?labelColor=333333" alt="Project Website"></a>
 <a href="https://github.com/TheDarkKnight-21th/CMO/tree/main"><img src="https://img.shields.io/badge/Project-Code-6f42c1?logo=github&logoColor=white" alt="Code"></a>

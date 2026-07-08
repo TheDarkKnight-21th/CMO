@@ -30,7 +30,7 @@
 | -------- | -------- |
 | FLUX.1-dev-CMO | [🤗 Bruece/FLUX.1-dev-CMO](https://huggingface.co/Bruece/FLUX.1-dev-CMO) |
 | FLUX.1-dev-CMO-HPSv2 | [🤗 Bruece/FLUX.1-dev-CMO-HPSv2](https://huggingface.co/Bruece/FLUX.1-dev-CMO-HPSv2) |
-| SD3.5-dev-CMO | 🚧 Coming Soon |
+| SD3.5-CMO | 🚧 Coming Soon |
 
 `FLUX.1-dev-CMO-HPSv2` is the CMO-trained FLUX.1-dev model variant that additionally emphasizes HPSv2-based human preference alignment.
 
